@@ -34,7 +34,7 @@ Configure `.env`:
 
 ```
 PORT=5000
-MONGODB_URI=mongodb://localhost:27017/mern-auth
+MONGODB_URI=your_mongoDB_uri
 JWT_SECRET=your_secret_key_here
 ```
 
@@ -52,4 +52,4 @@ npm install
 npm run dev
 ```
 
-## The app runs on `http://localhost:3000` and API on `http://localhost:5000`
+The app runs on `http://localhost:3000` and API on `http://localhost:5000` 
